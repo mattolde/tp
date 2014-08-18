@@ -1,0 +1,21 @@
+{
+  "name": "Matthew Olde",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mattolde/tp",
+  "authors": [
+    "Matthew Olde <mattolde@gmail.com>"
+  ],
+  "description": "Toy problems and coding experiments",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "~1.21.4"
+  }
+}
