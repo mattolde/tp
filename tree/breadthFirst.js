@@ -1,14 +1,14 @@
-var tree = function(value){
+var Tree = function(value){
   this.value = value;
   this.children = [];
 };
 
 // pass in a new tree node and add to tree.
-tree.prototype.addChild = function(node){
+Tree.prototype.addChild = function(node){
   this.children.push(node);
 };
 
-tree.prototype.containsBP = function(findValue){
+Tree.prototype.containsBP = function(findValue){
 
 };
 
